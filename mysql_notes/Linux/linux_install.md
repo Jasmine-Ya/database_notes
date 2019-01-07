@@ -17,4 +17,7 @@ Linux install mysql Centos
 ```mysql
   [root@host]# mysqladmin --version
 ```
+```
+    liguangchang要坚持下去
+```
 
